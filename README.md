@@ -34,3 +34,13 @@
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+| TABLE 1 | TABLE 2|
+|---------|---------|
+|content cell|content cell|
+|content cell|content cell|
+
+|HELLO|DARLINGS|
+|-----|--------|
+|content1|content2|
+|content3|content4|

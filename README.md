@@ -22,8 +22,15 @@
    - First nested list item
      - Second nested list item
 
-[amazon](https://www.amazon.in/).
-![Image text](https://static.toiimg.com/photo/msid-82792923/82792923.jpg?1048432)
+- click on this link [amazon](https://www.amazon.in/).
+
+![Image text](https://biooverview.com/wp-content/uploads/2021/08/NTR-3-300x295.jpg)
 - [x] #739
 - [ ] https://www.amazon.in/
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Add delight to the experience when all tasks are complete :tada:
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

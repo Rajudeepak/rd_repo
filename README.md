@@ -25,5 +25,5 @@
 [amazon](https://www.amazon.in/).
 ![Image text](https://static.toiimg.com/photo/msid-82792923/82792923.jpg?1048432)
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] https://www.amazon.in/
 - [ ] Add delight to the experience when all tasks are complete :tada:
